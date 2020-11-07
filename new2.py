@@ -1,3 +1,4 @@
+#create a game command line in pythin without interface
 command = ""
 started = False
 stopped = False
