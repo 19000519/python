@@ -1,2 +1,2 @@
 
-    print(f"you are {weight} pounds")
+quit - to exit """)
